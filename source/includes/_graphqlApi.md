@@ -41,14 +41,14 @@
 
 ### Penjelasan
 
-Query ini digunakan untuk mendapatkan ID Transaksi
+Query ini digunakan untuk mendapatkan ID Transaksi  
 
 ### Arguments
 
 Field | Tipe Data | Contoh | Deskripsi
 ------|-----------|--------|----------
 transaction  | [Transaction](#transaction) | Klik *Transaction* untuk melihat *field* | Informasi data transaksi.
-items        | [][Items](#items)     | Klik *Items* untuk melihat obyek | Informasi data *field*.
+items        | [][Items](#items)     | Klik *Items* untuk melihat obyek | Informasi data *Items*.
 customer     | [Customer](#customer)    | Klik *Customer* untuk melihat *field* | Informasi data pelanggan.
 expiry       | [Expiry](#expiry)      | Klik *Expiry* untuk melihat *field* | Informasi data *Expiry*.
 
